@@ -1,0 +1,8 @@
+сперва надо подключить ssh затем создаем репозиторий и с помощью терминала js создаеи коммиты и пушим их в гитхаб.
+испоьзуемые команды:
+git init
+git add README.md
+git commit -m ""
+git branch -M main
+git remote add origin https://github.com/имя/grid.git
+git push -u origin main
